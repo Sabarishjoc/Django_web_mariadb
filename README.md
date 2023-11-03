@@ -1,8 +1,8 @@
 # Django_web_mariadb
 
-DOCKER FILE
+                                                                 DOCKER FILE
 <img width="1280" alt="Dockerfile" src="https://github.com/Sabarishjoc/Django_web_mariadb/assets/129573072/5eecc929-e6fc-4a15-93e4-19a6bd0cb1a8">
-DOCKER COMPOSE
+                                                                DOCKER COMPOSE
 <img width="1280" alt="docker-compose" src="https://github.com/Sabarishjoc/Django_web_mariadb/assets/129573072/42d2d792-4d21-4328-8a08-eabfc9f9282b">
 RUNNING CONTAINERS
 <img width="1280" alt="containers" src="https://github.com/Sabarishjoc/Django_web_mariadb/assets/129573072/570fef17-28d0-4e10-96b8-e3bd976b7c76">
