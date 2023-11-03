@@ -20,6 +20,6 @@
 <img width="1280" alt="admin" src="https://github.com/Sabarishjoc/Django_web_mariadb/assets/129573072/72a38edf-5fdc-4b41-80f1-e7c20c3419d2">
 
                                                     HEALTH CHECK
-                                                    <img width="1280" alt="ss" src="https://github.com/Sabarishjoc/Django_web_mariadb/assets/129573072/0e29a0ca-3fd7-4a98-bc88-60ad448890cf">
+<img width="1280" alt="ss" src="https://github.com/Sabarishjoc/Django_web_mariadb/assets/129573072/0e29a0ca-3fd7-4a98-bc88-60ad448890cf">
 
 
